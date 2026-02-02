@@ -1,0 +1,26 @@
+# Portfolio (ICS4U)
+
+## About Me
+Hi, I’m Alexander Liliang. I’m a Grade 12 student taking ICS4U.
+I enjoy model games and I like building small interactive projects.
+
+## Skills & Tools
+- HTML / CSS / JavaScript
+- Basic programming logic (variables, loops, functions)
+- Git & GitHub
+- Problem solving and debugging
+
+## Project Showcase
+### Project 1: Kevin Fans
+- **What it does:** A small interactive mini project where users click to gain points (“fans”) and unlock upgrades.
+- **What it shows / solves:** It demonstrates basic game logic (points, upgrades, progression) and real-time UI updates.
+- **Target user:** Anyone who wants a simple, fun clicker-style mini game.
+- **What I would improve next:** Add sound effects/animations, add save/load, and improve the UI design.
+
+## Visual Proof
+### Screenshot
+![Kevin Fans Demo](![alt text](<截屏2026-02-02 21.38.25.png>))
+
+### Links
+- Code: (this GitHub repository)
+- Demo (optional): [put your GitHub Pages link here if you turn it on]
